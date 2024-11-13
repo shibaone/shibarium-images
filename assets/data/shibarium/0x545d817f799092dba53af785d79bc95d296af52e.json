@@ -1,0 +1,9 @@
+{
+  "parentName": "",
+  "parentSymbol": "",
+  "parentContract": "",
+  "childName": "Escrowed KNINE",
+  "childSymbol": "esKNINE",
+  "childContract": "0x545d817f799092dba53af785d79bc95d296af52e",
+  "bridgeType": "pos"
+}

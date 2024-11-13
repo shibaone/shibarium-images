@@ -1,0 +1,9 @@
+{
+  "parentName": "K9 Finance DAO",
+  "parentSymbol": "KNINE",
+  "parentContract": "0x91fbb2503ac69702061f1ac6885759fc853e6eae",
+  "childName": "K9 Finance DAO",
+  "childSymbol": "KNINE",
+  "childContract": "0x91fbb2503ac69702061f1ac6885759fc853e6eae",
+  "bridgeType": "pos"
+}
