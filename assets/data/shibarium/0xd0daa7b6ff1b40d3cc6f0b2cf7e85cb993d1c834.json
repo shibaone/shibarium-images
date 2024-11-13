@@ -1,0 +1,9 @@
+{
+  "parentName": "",
+  "parentSymbol": "",
+  "parentContract": "",
+  "childName": "WoofSwap",
+  "childSymbol": "WOOF",
+  "childContract": "0xd0daa7b6ff1b40d3cc6f0b2cf7e85cb993d1c834",
+  "bridgeType": "pos"
+}
