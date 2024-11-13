@@ -4,6 +4,6 @@
   "parentContract": "",
   "childName": "SHIT Coin",
   "childSymbol": "SHIT",
-  "childContract": "0xe10EeeE98F64bFc3BB308A724Df7f22717DFa7Cb",
+  "childContract": "0xe10eeee98f64bfc3bb308a724df7f22717dfa7cb",
   "bridgeType": "pos"
 }
