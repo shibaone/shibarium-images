@@ -2,8 +2,8 @@
   "parentName": "",
   "parentSymbol": "",
   "parentContract": "",
-  "childName": "Sharbi (OLD)",
+  "childName": "Sharbi",
   "childSymbol": "SHARBI",
-  "childContract": "0x3a71e24aec6f1004780450db9bfaf6dcb72965fb",
+  "childContract": "0x0da5aae7f402f4afbbdd045fadcd447835983a91",
   "bridgeType": "pos"
 }
