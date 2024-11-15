@@ -1,0 +1,9 @@
+{
+  "parentName": "",
+  "parentSymbol": "",
+  "parentContract": "",
+  "childName": "ChewySwap",
+  "childSymbol": "CHEWY",
+  "childContract": "0x2761723006d3Eb0d90B19B75654DbE543dcd974f",
+  "bridgeType": "pos"
+}

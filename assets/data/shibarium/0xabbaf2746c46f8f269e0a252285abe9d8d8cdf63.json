@@ -1,9 +1,0 @@
-{
-  "parentName": "",
-  "parentSymbol": "",
-  "parentContract": "",
-  "childName": "MarSwap Farm",
-  "childSymbol": "MSWAPF",
-  "childContract": "0xabbaf2746c46f8f269e0a252285abe9d8d8cdf63",
-  "bridgeType": "pos"
-}
