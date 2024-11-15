@@ -1,0 +1,9 @@
+{
+  "parentName": "",
+  "parentSymbol": "",
+  "parentContract": "",
+  "childName": "Shibarium Pups",
+  "childSymbol": "SHUPS",
+  "childContract": "0x165e8b1faeff503963f113dc81afc49cea2baba9",
+  "bridgeType": "pos"
+}
