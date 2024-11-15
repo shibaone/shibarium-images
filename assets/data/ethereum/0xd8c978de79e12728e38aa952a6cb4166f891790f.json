@@ -1,0 +1,9 @@
+{
+  "parentName": "Roaring Kitty",
+  "parentSymbol": "$ROAR",
+  "parentContract": "0xd8c978de79e12728e38aa952a6cb4166f891790f",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}
