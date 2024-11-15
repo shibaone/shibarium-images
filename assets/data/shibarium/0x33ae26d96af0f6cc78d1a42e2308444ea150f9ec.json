@@ -1,0 +1,9 @@
+{
+  "parentName": "",
+  "parentSymbol": "",
+  "parentContract": "",
+  "childName": "Shiba Ape Yacht Token",
+  "childSymbol": "SAYT",
+  "childContract": "0x33ae26d96af0f6cc78d1a42e2308444ea150f9ec",
+  "bridgeType": "pos"
+}
