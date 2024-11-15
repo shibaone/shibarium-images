@@ -1,0 +1,9 @@
+{
+  "parentName": "",
+  "parentSymbol": "",
+  "parentContract": "",
+  "childName": "K9 Staked BONE",
+  "childSymbol": "knBONE",
+  "childContract": "0x3358fca51d7c0408750fbbe7777012e0b67c027f",
+  "bridgeType": "pos"
+}
