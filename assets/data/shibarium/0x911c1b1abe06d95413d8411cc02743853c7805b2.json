@@ -1,0 +1,9 @@
+{
+  "parentName": "",
+  "parentSymbol": "",
+  "parentContract": "",
+  "childName": "Penguin",
+  "childSymbol": "PNG",
+  "childContract": "0x911c1b1abe06d95413d8411cc02743853c7805b2",
+  "bridgeType": "pos"
+}
