@@ -69,7 +69,10 @@ assets/
     "childName": "Bone Token",               // Name of the child token (e.g., Bone Token)
     "childSymbol": "BONE",                   // Symbol of the child token (e.g., BONE)
     "childContract": "0x0000000000000000000000000000000000001010", // Address of the child token contract
-    "bridgeType": "plasma"                   // Type of bridge (e.g., plasma, pos)
+    "bridgeType": "plasma"  ,                 // Type of bridge (e.g., plasma, pos)
+    "tokenWebsite": "https://example.com",    // Token Website
+    "projectDescription": "A token built to enhance decentralized finance on the Shiba ecosystem.", // Brief description of the token project
+    "contactInfo": "contact@example.com"      // Contact information for follow-up
 }
 ```
 
