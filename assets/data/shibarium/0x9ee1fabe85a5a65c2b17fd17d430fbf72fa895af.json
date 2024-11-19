@@ -5,7 +5,7 @@
   "childName": "Financial and Educational Freedom",
   "childSymbol": "FEF",
   "childContract": "0x9ee1fabe85a5a65c2b17fd17d430fbf72fa895af",
-  "bridgeType": "pos"
+  "bridgeType": "pos",
   "tokenWebsite": "https://fef.solutions/",    
   "projectDescription": "Financial & Educational Freedom token is a Shibarium Network utility rewards token. $FEF is allocated to both readers and writers on my news dApp."
 }
