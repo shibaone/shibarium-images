@@ -5,7 +5,7 @@
   "childName": "1 CENT DREAM",
   "childSymbol": "CENT",
   "childContract": "0x3c9b2b930ed1b6040f8539cceb35dd189f4733dd",
-  "bridgeType": "pos"
+  "bridgeType": "pos",
   "tokenWebsite": "https://fef.solutions/1-cent-dream-cent",   
   "projectDescription": "$CENT is auto deflationary, currently burning a tenth of a percentage of every transaction in $CENT directly to a dead wallet address. The main intention of 1 CENT DREAM is to accumulate $SHIB and bridge and burn it."
 }
