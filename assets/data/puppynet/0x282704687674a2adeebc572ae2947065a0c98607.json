@@ -1,0 +1,9 @@
+{
+    "parentName": "",
+    "parentSymbol": "",
+    "parentContract": "",
+    "childName": "Dummy ERC20",
+    "childSymbol": "DERC20",
+    "childContract": "0x282704687674A2adeeBC572AE2947065a0C98607",
+    "bridgeType": "pos"
+  }

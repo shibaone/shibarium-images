@@ -1,0 +1,9 @@
+{
+    "parentName": "Wrapped BTC",
+    "parentSymbol": "WBTC",
+    "parentContract": "0xE950c7eA44A8cd9C0db01F3392Cb284DaA75b1A9",
+    "childName": "Wrapped BTC",
+    "childSymbol": "WBTC",
+    "childContract": "0x3a042493688489d3482e39435c2F6C8cF85a9d54",
+    "bridgeType": "pos"
+}
