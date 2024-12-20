@@ -1,0 +1,9 @@
+{
+    "parentName": "Shifu",
+    "parentSymbol": "SHIFU",
+    "parentContract": "0x2cc7a972ebc1865b346085655f929abfa74cd4dc",
+    "childName": "Shifu",
+    "childSymbol": "SHIFU",
+    "childContract": "0x95e9F2Bf576DbA036A38e9659167788b518e56bb",
+    "bridgeType": "pos"
+  }
