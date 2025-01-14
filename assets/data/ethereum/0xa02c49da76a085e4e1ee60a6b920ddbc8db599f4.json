@@ -1,0 +1,9 @@
+{
+    "parentName": "TREAT",
+    "parentSymbol": "TREAT",
+    "parentContract": "0xa02c49da76a085e4e1ee60a6b920ddbc8db599f4",
+    "childName": "TREAT",
+    "childSymbol": "TREAT",
+    "childContract": "0x506d8d2d9c715eb34f514cc3ef48c7abd19e2bc7",
+    "bridgeType": "pos"
+  }
