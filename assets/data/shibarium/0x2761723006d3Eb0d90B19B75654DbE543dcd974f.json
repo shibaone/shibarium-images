@@ -4,6 +4,6 @@
   "parentContract": "",
   "childName": "ChewySwap",
   "childSymbol": "CHEWY",
-  "childContract": "0x2761723006d3Eb0d90B19B75654DbE543dcd974f",
+  "childContract": "0x2761723006d3eb0d90b19b75654dbe543dcd974f",
   "bridgeType": "pos"
 }
