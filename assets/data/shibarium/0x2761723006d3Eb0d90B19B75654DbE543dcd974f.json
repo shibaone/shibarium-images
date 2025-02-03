@@ -1,9 +1,9 @@
 {
-  "parentName": "",
-  "parentSymbol": "",
-  "parentContract": "",
-  "childName": "ChewySwap",
-  "childSymbol": "CHEWY",
-  "childContract": "0x2761723006d3eb0d90b19b75654dbe543dcd974f",
-  "bridgeType": "pos"
+    "parentName": "ChewySwap",
+    "parentSymbol": "CHEWY",
+    "parentContract": "0x2761723006d3eb0d90b19b75654dbe543dcd974f",
+    "childName": "",
+    "childSymbol": "",
+    "childContract": "",
+    "bridgeType": "pos"
 }
