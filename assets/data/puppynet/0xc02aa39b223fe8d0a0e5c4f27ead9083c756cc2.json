@@ -1,0 +1,9 @@
+{
+    "parentName": "Wrapped Ether",
+    "parentSymbol": "WETH",
+    "parentContract": "0x0C477AE2E8E5ce1666468e44b066542Fa46f9F72",
+    "childName": "",
+    "childSymbol": "",
+    "childContract": "",
+    "bridgeType": "pos"
+}

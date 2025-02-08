@@ -1,0 +1,9 @@
+{
+  "parentName": "",
+  "parentSymbol": "",
+  "parentContract": "",
+  "childName": "FEED",
+  "childSymbol": "FEED",
+  "childContract": "0xe9cb2d7adc24fc59fe00d6c0a0669bdf16805fe0",
+  "bridgeType": "pos"
+}

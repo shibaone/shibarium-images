@@ -1,0 +1,9 @@
+{
+    "parentName": "xFUND",
+    "parentSymbol": "xFUND Sepolia",
+    "parentContract": "0xb07C72acF3D7A5E9dA28C56af6F93862f8cc8196",
+    "childName": "xFUND Sepolia",
+    "childSymbol": "xFUND",
+    "childContract": "0x78f022230EaE6E05D8739E83a14b0Cf1D00CfaD5",
+    "bridgeType": "pos"
+}

@@ -1,0 +1,9 @@
+{
+    "parentName": "Bone",
+    "parentSymbol": "BONE",
+    "parentContract": "0x5c84bc60a796534bfec3439af0e6db616a966335",
+    "childName": "",
+    "childSymbol": "",
+    "childContract": "",
+    "bridgeType": "pos"
+}

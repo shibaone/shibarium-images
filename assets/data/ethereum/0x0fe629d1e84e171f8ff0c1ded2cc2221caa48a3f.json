@@ -1,0 +1,9 @@
+{
+    "parentName": "NFTX Hashmasks Index",
+    "parentSymbol": "MASK/Hashmasks",
+    "parentContract": "0x0fe629d1E84E171f8fF0C1Ded2Cc2221Caa48a3f",
+    "childName": "",
+    "childSymbol": "",
+    "childContract": "",
+    "bridgeType": "pos"
+}

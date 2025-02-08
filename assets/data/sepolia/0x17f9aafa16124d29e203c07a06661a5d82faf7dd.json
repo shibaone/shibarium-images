@@ -1,0 +1,9 @@
+{
+    "parentName": "LivingTheDream",
+    "parentSymbol": "LTD",
+    "parentContract": "0x17F9AafA16124D29E203c07A06661a5D82faF7DD",
+    "childName": "LivingTheDream",
+    "childSymbol": "LTD",
+    "childContract": "0x5a197666e84525182481B8D846B732c6CD2A04d0",
+    "bridgeType": "pos"
+}
