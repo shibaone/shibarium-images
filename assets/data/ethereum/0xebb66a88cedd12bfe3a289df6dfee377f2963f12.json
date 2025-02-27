@@ -4,7 +4,7 @@
   "parentContract": "0xebb66a88cedd12bfe3a289df6dfee377f2963f12",
   "childName": "Oscar",
   "childSymbol": "OSCAR",
-  "childContract": "0xebb66a88cedd12bfe3a289df6dfee377f2963f12",
+  "childContract": "0x0E56b8f632215053c6fB214B14A294372195760f",
   "bridgeType": "pos",
   "tokenWebsite": "www.oscartoken.com",
   "projectDescription": "OSCAR is a decentralized token, built by early members of the Shiba Inu team, aims for community impact & charity with a deflationary design."
