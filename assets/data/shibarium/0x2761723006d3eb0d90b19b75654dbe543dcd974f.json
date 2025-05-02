@@ -1,9 +1,11 @@
 {
-    "parentName": "ChewySwap",
-    "parentSymbol": "CHEWY",
-    "parentContract": "0x2761723006d3eb0d90b19b75654dbe543dcd974f",
-    "childName": "",
-    "childSymbol": "",
-    "childContract": "",
-    "bridgeType": "pos"
+  "parentName": "",
+  "parentSymbol": "",
+  "parentContract": "",
+  "childName": "ChewySwap",
+  "childSymbol": "CHEWY",
+  "childContract": "0x2761723006d3Eb0d90B19B75654DbE543dcd974f",
+  "bridgeType": "pos",
+  "tokenWebsite": "https://app.chewyswap.dog/",
+  "projectDescription": "ChewySwap is your friendly doggo memecoin DEX, Fully audited and KYC'ed - prioritizing ease of use and safety for a real tail-wagging experience!"
 }
