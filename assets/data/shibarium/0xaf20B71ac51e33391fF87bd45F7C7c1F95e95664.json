@@ -1,0 +1,11 @@
+{
+    "parentName": "RAGZ Token",
+    "parentSymbol": "RAGZ",
+    "parentContract": "0xaf20B71ac51e33391fF87bd45F7C7c1F95e95664",
+    "childName": "RAGZ Token",
+    "childSymbol": "RAGZ",
+    "childContract": "0x0000000000000000000000000000000000001010",
+    "bridgeType": "plasma",
+    "tokenWebsite": "https://ragZ2shib.com",
+    "projectDescription": "RAGZ isn’t just a token—it’s a story of rising from nothing, built for the overlooked, by the overlooked."
+}
