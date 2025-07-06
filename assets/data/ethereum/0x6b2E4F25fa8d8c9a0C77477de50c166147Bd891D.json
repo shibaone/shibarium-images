@@ -1,0 +1,11 @@
+{
+  "parentName": "SCORCH",
+  "parentSymbol": "SCORCH",
+  "parentContract": "0x6b2e4f25fa8d8c9a0c77477de50c166147bd891d",
+  "childName": "SCORCH",
+  "childSymbol": "SCORCH",
+  "childContract": "",
+  "bridgeType": "pos",
+  "tokenWebsite": "https://scorchtoken.com",
+  "projectDescription": "A token engineered to eliminate oversupply and drive sustainable deflation across the crypto ecosystem."
+}
