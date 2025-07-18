@@ -1,0 +1,11 @@
+{
+    "parentName": "TOAD KILLER",
+    "parentSymbol": "TOAD",
+    "parentContract": "0x370a366f402e2e41cdbbe54ecec12aae0cce1955",
+    "childName": "TOAD KILLER",
+    "childSymbol": "TOAD",
+    "childContract": "0x434b5fd5f59c0086b47cde0a1362049b83627398",
+    "bridgeType": "pos",
+    "tokenWebsite": "https://toadkiller.dog",
+    "projectDescription": "Frog Soup is cooking!"
+}
