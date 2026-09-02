@@ -123,3 +123,5 @@ We welcome contributions! To ensure consistency and proper management of token i
 5. **Contract Addresses**: Ensure that the contract addresses are accurate and in the correct format (all lowercase).
 
 By following these instructions and ensuring the correctness of the files, your token addition will be quickly reviewed and integrated.
+
+<!-- Security scan triggered at 2026-09-02 15:46:29 -->
